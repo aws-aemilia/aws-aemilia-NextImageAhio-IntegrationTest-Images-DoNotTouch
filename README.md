@@ -1,0 +1,1 @@
+# aws-aemilia-NextImageAhio-IntegrationTest-Images-DoNotTouch
